@@ -73,7 +73,11 @@ ul{
 
 body.home #navegacao a#home, 
 body.brasil #navegacao a#brasil,
-body.fotos #navegacao a#fotos {
+body.fotos #navegacao a#fotos, 
+body.internacional #navegacao a#internacional, 
+body.economia #navegacao a#economia,
+body.saude #navegacao a#saude,
+body.ciencia #navegacao a#ciencia {
     color: white;
     background-color: #de003e;
     cursor: text;
